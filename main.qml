@@ -18,31 +18,31 @@ Window {
     FontLoader {
         id: avenir_next_condensed_ultra_lightight
         //name: "Purisa"
-        source: "font/Avenir Next Condensed Ultra Light.ttf"
+        source: "fonts/Avenir Next Condensed Ultra Light.ttf"
     }
 
     FontLoader {
         id: awesome
         //name: "Purisa"
-        source: "font/Font Awesome 5 Free-Solid-900.otf"
+        source: "fonts/Font Awesome 5 Free-Solid-900.otf"
     }
 
     FontLoader {
         id: code39
         //name: "Purisa"
-        source: "font/code39.ttf"
+        source: "fonts/code39.ttf"
     }
 
     FontLoader {
         id: code128
         //name: "Purisa"
-        source: "font/code128.ttf"
+        source: "fonts/code128.ttf"
     }
 
     FontLoader {
         id: code_2_of_5_interleaved
         //name: "Purisa"
-        source: "font/code25I.ttf"
+        source: "fonts/code25I.ttf"
     }
 
     ColumnLayout {
