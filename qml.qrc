@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>font/Avenir Next Condensed Demi Bold.ttf</file>
+        <file>font/Avenir Next Condensed Medium.ttf</file>
+        <file>font/Avenir Next Condensed Ultra Light.ttf</file>
+        <file>font/Avenir Next Condensed.ttf</file>
+        <file>font/code128.ttf</file>
+        <file>font/code25I.ttf</file>
+        <file>font/code39.ttf</file>
+        <file>font/Font Awesome 5 Brands-Regular-400.otf</file>
+        <file>font/Font Awesome 5 Free-Regular-400.otf</file>
+        <file>font/Font Awesome 5 Free-Solid-900.otf</file>
+    </qresource>
+</RCC>
